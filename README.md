@@ -1,7 +1,7 @@
 
 ---
 
-## 🐍 **Snake Game** — `README.md`
+## 🐍 **Snake Game**
 
 ```markdown
 # 🐍 Snake Game
